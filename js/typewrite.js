@@ -1,9 +1,9 @@
 ﻿// List of sentences
 var _CONTENT = [ 
-	"Zanjan National University ",
+	"University of Zanjan ",
 	"SSCE ", 
-	"Providing technological content for better knowledge ", 
-	"Towards a better education ", 
+	"Providing Technological Content for Better Knowledge ", 
+	"Towards a Better Education ", 
 	
 ];
 
